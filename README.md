@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yaniv.</h1>
 <h1 align="center">Get in touch: 
 <a href="https://www.linkedin.com/in/yaniv208/">
-  <img alt="LinkedIn's referral link" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="LinkedIn's referral link" width="40px" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
 </a>
 <a href="mailto:Yaniv208@gmail.com">
   <img alt="Yaniv's Gmail" width="40px" src="https://i.imgur.com/BzG8QoD.png" />
