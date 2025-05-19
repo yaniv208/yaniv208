@@ -11,9 +11,6 @@
   <a href="https://github.com/Yaniv208">
     <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=Yaniv208&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
-  <a href="https://github.com/Yaniv208">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaniv208&layout=compact&theme=dracula&hide=html,css" />
-  </a>
 </div>
 
 ---
